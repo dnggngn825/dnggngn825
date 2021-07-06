@@ -22,3 +22,6 @@ I am in the ultimate year of Master of Engineering, at the University of Melbour
 - [My personal website](https://dangnguyen825.netlify.app/)
 
 ![dnggngn825's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnggngn825&show_icons=true&theme=gotham)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dnggngn825&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
