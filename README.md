@@ -17,6 +17,13 @@ Here are some ideas to get you started:
 
 I am in the ultimate year of Master of Engineering, at the University of Melbourne. I have more than 1-year of experience in mechanical design as well as software development obtained from getting involved in different projects related to robotics and autonomous systems over my course and internship experience. I consider myself as a 'forever student', eager to both build on my academic foundation in Mechatronics and upskill myself in Computer Science with online courses. I am currently working on my capstone project while also self-learning web development in part-time. I am seeking for opportunities to kickstart my career path in Robotics and Software Development after graduate.
 
+### Some projects that I have got involved into:
+- Developed software pipeline for the autonomous warehouse robot using ROS, Python and C++
+- Designed the 4-dof robot arm for moving the chess piece
+- Working on designing and implementing the autonomous steering system for the FSAE-A Electric car
+- Maintained and developed additional feature in C++ for the temp-humid sensor using LoRa network
+- Assisting ALEX team (UniMelb) on embedded system of the crutch and exoskeleton
+
 #### Find me around the web:
 - [LinkedIn](https://www.linkedin.com/in/dang-nguyen-89a563170/?locale=en_US)
 - [My personal website](https://dangnguyen825.netlify.app/)
