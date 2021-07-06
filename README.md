@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Dang Nguyen (Danny)
 
 <!--
 **dnggngn825/dnggngn825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am in the ultimate year of Master of Engineering, at the University of Melbourne. I have more than 1-year of experience in mechanical design as well as software development obtained from getting involved in different projects related to robotics and autonomous systems over my course and internship experience. I consider myself as a 'forever student', eager to both build on my academic foundation in Mechatronics and upskill myself in Computer Science with online courses. I am currently working on my capstone project while also self-learning web development in part-time. I am seeking for opportunities to kickstart my career path in Robotics and Software Development after graduate.
+
+#### Find me around the web:
+- [LinkedIn](https://www.linkedin.com/in/dang-nguyen-89a563170/?locale=en_US)
+- [My personal website](https://dangnguyen825.netlify.app/)
+
+![dnggngn825's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnggngn825&show_icons=true&theme=gotham)
