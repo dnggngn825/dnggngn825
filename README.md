@@ -21,7 +21,7 @@ I am in the ultimate year of Master of Engineering, at the University of Melbour
 - Developed software pipeline for the autonomous warehouse robot using ROS, Python and C++
 - Designed the 4-dof robot arm for moving the chess piece
 - Working on designing and implementing the autonomous steering system for the FSAE-A Electric car
-- Maintained and developed additional feature in C++ for the temp-humid sensor using LoRa network
+- Maintained and developed additional feature in C++ for the temp-humid sensor transmitting data to a gateway by LoRa network
 - Assisting ALEX team (UniMelb) on embedded system of the crutch and exoskeleton
 
 #### Find me around the web:
